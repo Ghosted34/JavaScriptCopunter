@@ -79,6 +79,7 @@ h1{
     outline: none;
     cursor: pointer;
     transition:  0.2s ease;
+    border: none;
 }
 
 @media only screen and (min-width:1366px){
